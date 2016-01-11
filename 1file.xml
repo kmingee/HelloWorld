@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="gb2312"?>
+<file>
+  <xmlrecord>
+    <title>
+    </title>
+    <content>
+    </content>
+    <posttime>
+    </posttime>
+    <postuser>
+    </postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>BIG</title>
+    <posttime>2015/6/17 17:00:10</posttime>
+    <content>BIG12345</content>
+    <postuser>admin</postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>35345</title>
+    <posttime>2015/6/19 15:27:40</posttime>
+    <content>nghkhuli</content>
+    <postuser>a</postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>1255555555555555555</title>
+    <posttime>2015/6/19 15:29:08</posttime>
+    <content>777777777777777777777777777777777777777777777777777777777777777777</content>
+    <postuser>a</postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>1111111111111111111111111111111111111111111111111111111111</title>
+    <posttime>2015/6/19 15:29:40</posttime>
+    <content>1455555555555555555555555555555555555555555555555555555555555555555555555555555555555</content>
+    <postuser>a</postuser>
+  </xmlrecord>
+  <xmlrecord>
+    <title>777777777777777777777</title>
+    <posttime>2015/6/19 15:43:27</posttime>
+    <content>777777777777777777777777777777777777777777777777777777777777777</content>
+    <postuser>a</postuser>
+  </xmlrecord>
+</file>
